@@ -1,0 +1,5 @@
+# ローカルで生成される SQLite DB ファイル
+*.db
+*.db-wal
+*.db-shm
+shop.db
